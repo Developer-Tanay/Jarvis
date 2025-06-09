@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+requests
+AppOpener
+playsound3
+google-genai
+python-dotenv

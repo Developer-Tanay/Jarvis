@@ -1,0 +1,29 @@
+{
+  "programs": {
+    "notepad": "notepad.exe",
+    "file manager": "%windir%\\explorer.exe",
+    "calculator": "%windir%\\System32\\calc.exe",
+    "spotify": "spotify.exe",
+  },
+
+  "websites": {
+  "google": "https://www.google.com",
+  "youtube": "https://www.youtube.com",
+  "github": "https://github.com",
+  "facebook": "https://www.facebook.com",
+  "instagram": "https://www.instagram.com",
+  "wikipedia": "https://www.wikipedia.org",
+  "reddit": "https://www.reddit.com",
+  "chat gpt": "https://chatgpt.com",
+  "x": "https://x.com",
+  "amazon": "https://www.amazon.com",
+  "tiktok": "https://www.tiktok.com",
+  "netflix": "https://www.netflix.com",
+  "linkedin": "https://www.linkedin.com"
+  },
+
+  "songs": {
+    "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI",
+    "believer": "D:/Music/Believer - Imagine Dragons.m4a"
+  }
+}
