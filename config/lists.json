@@ -1,9 +1,13 @@
 {
   "programs": {
     "notepad": "notepad.exe",
+    "word": "WINWORD.EXE",
+    "browser": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+    "vs code": "C:\\Users\\tanay\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
     "file manager": "%windir%\\explorer.exe",
     "calculator": "%windir%\\System32\\calc.exe",
     "spotify": "spotify.exe",
+    "discord": "C:\\Users\\tanay\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe"
   },
 
   "websites": {
